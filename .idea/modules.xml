@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lwh-adapter/lwh-adapter.iml" filepath="$PROJECT_DIR$/lwh-adapter/lwh-adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/lwh-decorator/lwh-decorator.iml" filepath="$PROJECT_DIR$/lwh-decorator/lwh-decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/lwh-design.iml" filepath="$PROJECT_DIR$/lwh-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/lwh-factory/lwh-factory.iml" filepath="$PROJECT_DIR$/lwh-factory/lwh-factory.iml" />

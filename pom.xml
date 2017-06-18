@@ -12,6 +12,7 @@
         <module>lwh-decorator</module>
         <module>lwh-singleton</module>
         <module>lwh-factory</module>
+        <module>lwh-adapter</module>
     </modules>
     <packaging>pom</packaging>
 
