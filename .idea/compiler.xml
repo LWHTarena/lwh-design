@@ -18,10 +18,10 @@
       <module name="lwh-adapter" target="1.8" />
       <module name="lwh-decorator" target="1.8" />
       <module name="lwh-design" target="1.8" />
-      <module name="lwh-factory" target="1.5" />
+      <module name="lwh-factory" target="1.8" />
       <module name="lwh-observer" target="1.8" />
       <module name="lwh-singleton" target="1.8" />
-      <module name="lwh-strategy" target="1.5" />
+      <module name="lwh-strategy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
